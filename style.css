@@ -1,0 +1,149 @@
+*
+{
+    margin: 0;
+    padding: 0;
+   }
+ body{
+    background-color: rgba(10, 8, 8, 0.884);
+ }
+ .header{
+     background-color: black;
+ }
+.header h1{
+    padding-left: 440px;
+    padding-top: 100px;
+    font-size: 40px;
+    font-family: cursive;
+    color: white;
+    
+}
+.header h2{
+    padding-left: 740px;
+    font-family: cursive;
+    font-style: italic;
+    color: white;
+    
+}
+
+.header img{
+float: right;
+position: absolute;
+right: 10px;
+top: 0px;
+
+}
+.i2 img{
+    position: absolute;
+    left: 120px;
+    height: 300px;
+}
+.i3 img{
+    position: absolute;
+    top: 197px;
+    right: 500px;
+}
+.bod{
+    margin-top: 200px;
+    color: whitesmoke;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.644);
+}
+.bod ul{
+    font-size: 30px;
+}
+.bod img{
+    position: absolute;
+    left: 20px;
+    
+}
+.i1 img{
+    position: absolute;
+    left: 300px;
+}
+.content{
+    background-color: rgba(0, 0, 0, 0.63);
+}
+.content h1
+{
+    padding-left: 600px;
+    color: rgb(235, 12, 12);
+}
+.content ul{
+    padding-left: 600px;
+    font-size: 20px;
+    color: tomato;
+    line-height: 50px;
+}
+.info ul{
+    font-size: 20px;
+    color: rgb(238, 238, 119);
+    line-height: 25px;
+    font-size: 20px;
+    padding-left: 40px;
+}
+.content img{
+    position: absolute;
+    right: 20px;
+    top: 630px;
+}
+.info h1{
+    color: yellow;
+   background-color: rgba(0, 0, 0, 0.397);
+text-align: center;
+}
+.skills{
+    background-color: rgba(0, 0, 0, 0.541);
+}
+.skills h1{
+    color: lightcyan;
+    text-align: left;
+    font-size: 40px;
+}
+.skills li{
+  
+    color: lightcyan;
+    font-size: 25px;
+}
+.skills h2{
+    text-align: right;
+    color: lightgrey;
+    font-size: 40px;
+}
+
+.hey li{
+    color: lightyellow;
+    text-align: right;
+    font-size: 25px;
+    line-height: 25px;
+
+}
+.hey img{
+    position: absolute;
+    top: 1200px;
+   
+}
+.skills img{
+    position: absolute;
+    left: 650px;
+    top: 1050px;
+}
+.footer{
+    background-color: rgba(236, 211, 211, 0.274);
+    padding-top: 100px;
+color: white;
+font-size: 20px;
+text-align: center;
+}
+.insta{
+   position: relative;
+   right: 100px;
+}
+.fb{
+    position: relative;
+    bottom: 50px;
+}
+.linked{
+    position: relative;
+    bottom: 110px;
+    left: 100px;
+}
